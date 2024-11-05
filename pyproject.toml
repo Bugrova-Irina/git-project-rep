@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "gitprojectrep"
+version = "0.1.0"
+description = ""
+authors = ["bugrova irina <bugrova147@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
